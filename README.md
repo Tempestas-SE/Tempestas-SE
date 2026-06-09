@@ -56,8 +56,8 @@ When I'm not knee-deep in coursework or competitive programming, I'm customising
 
 <div align="center">
 
-[/<img src="https://github-readme-stats.vercel.app/api?username=tempestas-se&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>/]
-[/<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempestas-se&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>/]
+<!---<img src="https://github-readme-stats.vercel.app/api?username=tempestas-se&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>/]
+[/<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempestas-se&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>-->
 
 </div>
 
