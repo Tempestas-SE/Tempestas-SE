@@ -65,20 +65,6 @@ When I'm not knee-deep in coursework or competitive programming, I'm customising
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tempestas-SE&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tempestas-SE&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
