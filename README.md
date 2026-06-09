@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Faiq%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MSc%20Data%20%26%20Computer%20Science%20·%20Heidelberg%20University&descAlignY=56&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Faiq%20👋&fontSize=48&fontColor=fff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Machine+Learning+%2F+Reinforcement+Learning;Algorithm+Engineering;Kotlin+%7C+Python+%7C+C%2B%2B;Tinkerer%2C+Reader%2C+Builder)](https://git.io/typing-svg)
 
