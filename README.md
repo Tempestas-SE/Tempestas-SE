@@ -63,7 +63,7 @@ When I'm not knee-deep in coursework or competitive programming, I'm customising
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tempestas-SE&theme=codestackr&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tempestas-SE&theme=ocean-gradient&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 <div align="center">
 
