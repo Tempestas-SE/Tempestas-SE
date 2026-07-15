@@ -50,8 +50,6 @@ When I'm not knee-deep in coursework or competitive programming, I'm customising
 
 </div>
 
----
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
