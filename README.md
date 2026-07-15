@@ -42,11 +42,11 @@ When I'm not knee-deep in coursework or competitive programming, I'm customising
 
 **ML & Data**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,jupyter,numpy&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,jupyter&perline=5)](https://skillicons.dev)
 
 **Tools & Environment**
 
-[![My Skills](https://skillicons.dev/icons?i=git,idea,vscode,gradle,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,idea,vscode,emacs,gradle,github&perline=6)](https://skillicons.dev)
 
 </div>
 
