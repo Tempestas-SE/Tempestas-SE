@@ -27,7 +27,7 @@ When I'm not knee-deep in coursework or competitive programming, I'm customising
 
 - 🎓 **Courses:** Advanced Software Engineering · Algorithm Engineering · ML Essentials · Reinforcement Learning  
 - 💡 **Interests:** ML systems · JVM/Kotlin ecosystem · Data Analysis · Hardware/software customisation  
-- 📚 **Currently reading:**   Blake Crouch · and everything speculative  
+- 📚 **Currently reading:**   Everything speculative  
 - 🎵 Music obsessive · Aesthetics enthusiast  
 
 ---
