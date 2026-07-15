@@ -52,19 +52,6 @@ When I'm not knee-deep in coursework or competitive programming, I'm customising
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!---<img src="https://github-readme-stats.vercel.app/api?username=tempestas-se&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>/]
-[/<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempestas-se&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>-->
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tempestas-SE&theme=ocean-gradient&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
